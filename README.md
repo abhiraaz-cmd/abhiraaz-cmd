@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @abhiraaz-cmd
+- 👋 Hi, I’m Abhishek
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning html,css,js
+- 🌱 I’m currently learning C, Python, R
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... i'll mention it later
 
