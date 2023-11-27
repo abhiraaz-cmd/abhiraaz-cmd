@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Abhishek
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning C, Python, R
+- 🌱 I’m currently learning C, Python
 - 📫 How to reach me ... i'll mention it later
 
 <!---
